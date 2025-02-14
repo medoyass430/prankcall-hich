@@ -1,0 +1,47 @@
+{
+  "ads": {
+   
+
+     "ShowAds": true,
+     "ClickCount": 1,
+     "ShowLoadingAds": true,
+
+    "AdmobInterstitial": "ca-app-pub-1976232137617356/8912092475",
+    "AdmobBanner":"ca-app-pub-1976232137617356/7930183297",
+    "AdmobNative":"ca-app-pub-1976232137617356/3810974886",
+
+    
+
+    
+    
+    "FanBanner": "IMG_16_9_APP_INSTALL#",
+    "FanNative": "IMG_16_9_APP_INSTALL#",
+    "FanInterstitial": "IMG_16_9_APP_INSTALL#",
+
+    
+    "MaxBanner": "",
+    "MaxNative": "",
+    "MaxInterstitial": "",
+   
+   
+    "IronAppKey": "",
+    "IronBanner": "",
+    "IronInterstitial": "",
+    
+
+
+   
+
+    
+    "priorityInterstitial": "admob",
+    "PriorityBanner": "admob",
+    "PriorityNative": "admob"
+    
+   
+    
+   
+    
+    
+    
+  }
+}
